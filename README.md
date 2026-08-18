@@ -42,10 +42,3 @@ Productivity dashboard with advanced state management and scalable component arc
 `Nuxt.js` `Tailwind`
 
 ---
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cachewraith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&icon_color=7AA2F7&title_color=7AA2F7)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cachewraith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=cachewraith&theme=tokyonight&hide_border=true&background=1A1B27&fire=7AA2F7&ring=7AA2F7&currStreakLabel=7AA2F7)
