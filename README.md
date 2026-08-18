@@ -2,7 +2,7 @@
 
 Backend Developer · Laravel & NestJS
 
-[LinkedIn](https://www.linkedin.com/in/somonor-hong-9b44902b0/) · [Email](mailto:somonorhong011@gmail.com) · [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/somonor-hong-9b44902b0/) · [Email](mailto:somonorhong011@gmail.com) · [Portfolio](https://hushstackcambodia.site/)
 
 ---
 
